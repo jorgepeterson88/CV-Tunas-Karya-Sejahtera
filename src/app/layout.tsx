@@ -55,6 +55,7 @@ export default function RootLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="theme-color" content="#1e3a8a" />
+        <meta name="facebook-domain-verification" content="53gjpxszqgyxf9yjjyv81uc1k5et7z" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
